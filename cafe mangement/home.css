@@ -1,0 +1,56 @@
+body{
+		font-family: latha;
+		color: white;
+		background:url(home2.png);
+		background-size: cover;
+		}
+a.link{
+	color: white;
+}		
+.box{       width: 900px;
+			float:right;
+			font-size: 22px;
+			border:1px solid none;
+		}
+.box ul li{ width: 120px;
+			float: left;
+			margin: 10px auto;
+			text-align:center;
+			}
+.box ul li a{word-spacing: 2px;
+	         text-decoration: none;
+             color:white;
+             }			
+.box ul li:hover{background-color: green;}
+.box ul li a:hover{color:white;}
+.wd{
+			width:200px;
+			height: 540px;
+			background-color: black;
+			opacity: 0.9;
+			padding: 55px;
+	}		
+.wd h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 100px;
+}	
+.wd h4{
+	text-align: center;
+	font-size: 22px;
+}
+.btn{
+	font-family: arial;
+	color: white;
+	text-transform: uppercase;
+	font-size: 30px
+	width:100px;
+	height: 60px;
+	border-radius: 80px;
+	line-height: 60px;
+	text-align: center;
+}	
+.yoo
+{
+	text-align: bottom;
+}

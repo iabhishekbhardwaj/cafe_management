@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+    background-image: url('feedback.png');
+    background-size: 100% 100%;
+}
+.contact-form h1{
+	color: black;
+	text-align: center;
+}
+form{
+	margin-top: 50px;
+	transition: all 4s ease-in-out;
+}
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #fff;
+	font-size: 22px;
+	margin-bottom: 18px;
+
+}
+input{
+	height: 45px;
+}
